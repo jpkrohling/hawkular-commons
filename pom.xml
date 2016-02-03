@@ -89,9 +89,6 @@
   </ciManagement>
 
   <properties>
-    <version.org.wildfly>10.0.0.CR5</version.org.wildfly>
-    <version.org.wildfly.core>2.0.5.Final</version.org.wildfly.core>
-
     <version.org.freemarker>2.3.23</version.org.freemarker>
     <version.org.wildfly.wildfly-arquillian-container-managed>8.2.1.Final</version.org.wildfly.wildfly-arquillian-container-managed>
     <version.org.jboss.arquillian>1.1.11.Final</version.org.jboss.arquillian>
